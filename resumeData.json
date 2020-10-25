@@ -82,18 +82,18 @@
       },
       {
         "name":"React Js",
-        "description":"I am new to React and really like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template",
+        "description":"I am new to React and really like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template.",
         "image":"react.jpg"
       },
       {
         "name":"Scss",
         "description":"Every devloper must know the basic rules of desgin, Scss make it easy. ",
-        "image":"sass.svg"
+        "image":"sass.jpg"
       },
 
       {
         "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects.",
         "image":"node.jpg"
       },
       {
@@ -103,17 +103,17 @@
       },
       {
         "name":"MongoDB",
-        "description":"I have used different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "description":"I have used different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with.",
         "image":"mongo.jpg"
       },
       {
         "name":"PHP",
-        "description":"I have used php ",
+        "description":"I have used php few times, small projects during the studies. ",
         "image":"php.png"
       },
       {
         "name":"PHPMYADMIN",
-        "description":"I have used this as a part of php projects during studies ",
+        "description":"I have used this as a part of php projects during studies. ",
         "image":"pma.png"
       },
       {
@@ -128,9 +128,21 @@
     "projects": [
       {
         "title":"Watchat",
-        "category":"A React + Redux application to watch movies and chat online with others using SOCKET IO. and a server side using mongodb, deploy with HERUKU",
+        "category":"A React + Redux application to watch movies and chat online with others using SOCKET IO. and a server side using mongodb, deploy with HERUKU.",
         "image":"random-walker.jpg",
         "url":"https://watchatido.herokuapp.com/#/"
+      },
+      {
+        "title":"Mistertoy - inventory manager",
+        "category":"A React + Redux, React-Router,Soket, react-toastify,react-chartjs-2 application to mange (add,edit) inventory , Geoloaction, Google maps.",
+        "image":"mistertoy.jpg",
+        "url":"https://github.com/Idooren/mistertoy-vue"
+      },
+      {
+        "title":"Misterbooks",
+        "category":"A Vue application using router,fontawsome library, google books api, add, edit, reviews.",
+        "image":"misterbooks.jpg",
+        "url":"https://github.com/Idooren/misterbook.github.io"
       }
     ]
   },
