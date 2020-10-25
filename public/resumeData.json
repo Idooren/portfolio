@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Ido Oren",
+    "occupation":" People Person and also full stack developer ",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":" Hello. my name is Ido. an experienced Sales Manager with a prooven record track working in the Automobile industry. Strong sales professional skilled in Talent Management, Customer Service, Recruiting, Team Building, and Training. I am currently finished studying as a full stack developer at Coding Academy Israel. have learend 640 hours of coding. Developer at heart combined with extensive senior experience in B2C sales and business development in the automobile industry!  7 years of successfully managing and empowering a team of up to 15 sales reps. Managerial leadership courses qualified, Training specialist in technical aspects of the product and sales methodology.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "idoorenlil@gmail.com",
+    "phone": "+9720543377169",
+    "address":{
+      "city":"Hertzelya, Israel",
+      "street":"",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.idooren.com",
+    "resumedownload":"https://drive.google.com/file/d/1wpssSx2FAFTPMd4j3N6XxqdDlqAGdvq5/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ido-oren-04028072/",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Idooren",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"gitlab",
+        "url":"https://www.facebook.com/ido.oren.31/",
+        "className":"fab fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Interdisciplinary Center Herzliya",
+        "degree":"B.A in Government, Diplomacy and Strategy.",
+        "graduated":"April 2005",
+        "description":""
+      },
+      {
+        "school":"Coding Academy",
+        "degree":"Professional Certificate, Full stack developer.",
+        "graduated":"oct 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"The Colmobil Group.",
+        "title":"Sales Manager",
+        "years":"Aug 2009 - Aug 2018",
+        "description":""
+      },
+      {
+        "company":"MCT ",
+        "title":"regional manager",
+        "years":"Aug 2018 - March 2020",
+        "description":""
+      }
+    ],
+    "skillmessage":"",
+    "skills":[
+      {
+        "name":"Vuejs",
+        "description":"I use Vuejs for my final projects.",
+        "image":"vue.jpg"
+      },
+      {
+        "name":"Javascript",
+        "description":"Js was my first programming language that I started using. It is by far the language I am most familiar with.",
+        "image":"js.png"
+      },
+      {
+        "name":"HTML5",
+        "description":"learing this markup language was very pleasable .",
+        "image":"html5.png"
+      },
+      {
+        "name":"React Js",
+        "description":"I am new to React and really like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Scss",
+        "description":"Every devloper must know the basic rules of desgin, Scss make it easy. ",
+        "image":"sass.jpg"
+      },
+
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects.",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I have used different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with.",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"PHP",
+        "description":"I have used php few times, small projects during the studies. ",
+        "image":"php.png"
+      },
+      {
+        "name":"PHPMYADMIN",
+        "description":"I have used this as a part of php projects during studies. ",
+        "image":"pma.png"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+      }
+    ]
+  },
+  
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Watchat",
+        "category":"A React + Redux application to watch movies and chat online with others using SOCKET IO. and a server side using mongodb, deploy with HERUKU.",
+        "image":"random-walker.jpg",
+        "url":"https://watchatido.herokuapp.com/#/"
+      },
+      {
+        "title":"Mistertoy - inventory manager",
+        "category":"A React + Redux, React-Router,Soket, react-toastify,react-chartjs-2 application to mange (add,edit) inventory , Geoloaction, Google maps.",
+        "image":"mistertoy.jpg",
+        "url":"https://github.com/Idooren/mistertoy-vue"
+      },
+      {
+        "title":"Misterbooks",
+        "category":"A Vue application using router,fontawsome library, google books api, add, edit, reviews.",
+        "image":"misterbooks.jpg",
+        "url":"https://github.com/Idooren/misterbook.github.io"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Rennel Ongcoy must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

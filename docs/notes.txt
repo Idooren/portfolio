@@ -1,0 +1,36 @@
+git clone https://gitlab.com/renneli/rennelongcoy.github.io.git
+
+npm install
+
+npm start
+
+http://127.0.0.1:3000/
+
+npm run deploy
+
+https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself
+https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+
+change from
+@import url("font-awesome/css/font-awesome.min.css");
+to
+@import url("font-awesome/css/all.css");
+
+change from
+"className":"fa fa-twitter"
+to
+"className":"fab fa-twitter"
+
+
+twitter
+instagram
+stackoverflow
+gitlab
+medium
+reddit
+slack
+discourse
+discord
+docker
+hackerrank
+kaggle
