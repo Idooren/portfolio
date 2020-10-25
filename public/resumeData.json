@@ -112,11 +112,6 @@
         "image":"php.png"
       },
       {
-        "name":"PHPMYADMIN",
-        "description":"I have used this as a part of php projects during studies. ",
-        "image":"pma.png"
-      },
-      {
         "name":"Heroku",
         "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
         "image":"heroku.jpg"
