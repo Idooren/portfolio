@@ -247,9 +247,9 @@ ul#nav li.current a {
 
 #about .profile-pic {
    position: relative;
-   width: 180px;
-   height: 160px;
-   border-radius: 35%;
+   /* width: 150px;
+   height: 140px; */
+   border-radius: 25%;
 }
 
 #about .contact-details {
