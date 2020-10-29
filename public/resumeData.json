@@ -111,9 +111,15 @@
         "image": "php.png"
       },
       {
+<<<<<<< HEAD
         "name": "Heroku",
         "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
         "image": "heroku.jpg"
+=======
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+>>>>>>> cbabab2ac86b8e4f1dad65009a38d99c8b68f832
       }
     ]
   },
