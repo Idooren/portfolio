@@ -9,6 +9,7 @@ class Testimonials extends Component {
             <blockquote>
                <p>{testimonials.text}</p>
                <cite>{testimonials.user}</cite>
+
             </blockquote>
          </li>
       })
@@ -19,9 +20,9 @@ class Testimonials extends Component {
       <div className="text-container">
          <div className="row">
 
-            <div className="two columns header-col">
+            {/* <div className="two columns header-col">
                <h1><span>Client Testimonials</span></h1>
-            </div>
+            </div> */}
 
             <div className="ten columns flex-container">
                   <ul className="slides">
