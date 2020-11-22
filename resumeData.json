@@ -4,7 +4,7 @@
     "occupation": " People Person and also full stack developer ",
     "description": "",
     "image": "profilepic.jpg",
-    "bio":"Hello. my name is Ido. Developer at heart with a clear passion for coding. A recent graduate of the Coding Academy Israel making me a certified Full Stack Developer after 640 intensive hours of coding and loving it. Over a decade of Sales Management experience with a proven track record of exceeding sales targets in the Automobile industry.Extensive experience in Business development, team building and leading and Customer Service.Training specialist with experience in technical aspects of product and sales methodology and Managerial leadership courses qualified.",
+    "bio":"Hello. my name is Ido. Over a decade of Sales Management experience with a proven track record of exceeding sales targets in the Automobile industry.Extensive experience in Business development, team building and leading, and Customer Service.Training specialist with experience in technical aspects of product and sales methodology and Managerial leadership courses qualified.  A recent graduate of the Coding Academy Israel making me a certified Full Stack Developer after 640 intensive hours of coding and loving it. Developer at heart with a clear passion for coding. experience in writing single-page-applications using the latest WEB technologies such as Node.js, Vue.js, Vuex, React, Redux, Angular and MongoDb, PHP, Myphpadmin!",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "idoorenlil@gmail.com",
     "phone": "+9720543377169",
@@ -16,6 +16,7 @@
     },
     "website": "http://www.idooren.com",
     "resumedownload": "https://drive.google.com/file/d/1wpssSx2FAFTPMd4j3N6XxqdDlqAGdvq5/view?usp=sharing",
+    "catificateDownload": "https://drive.google.com/file/d/1lnQLGkx6eqO3RS1jkZrC-HUyubOydWFp/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -86,34 +87,9 @@
         "image": "react.jpg"
       },
       {
-        "name": "Scss",
-        "description": "Every devloper must know the basic rules of desgin, Scss make it easy. ",
-        "image": "sass.jpg"
-      },
-      {
         "name": "Node JS",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects.",
+        "description": "Node JS is my server-side scripting language of choice.",
         "image": "node.jpg"
-      },
-      {
-        "name": "Bootstrap 4",
-        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
-        "image": "bootstrap.jpg"
-      },
-      {
-        "name": "MongoDB",
-        "description": "I have used different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with.",
-        "image": "mongo.jpg"
-      },
-      {
-        "name": "PHP",
-        "description": "I have used php few times, small projects during the studies. ",
-        "image": "php.png"
-      },
-      {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
       }
     ]
   },
@@ -142,12 +118,13 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "How I live the sale cycle, Approach Each Customer With The Idea Of Helping Him Or Her To Solve A Problem Or Achieve A Goal, Not Of Selling A Product Or Service also If I won't Take Care Of my Customer, the Competitor Will.  ",
+        "user": " SALESERVICE"
       },
       {
-        "text": "That Rennel Ongcoy must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "During 9 years in the Automobile, i served more then 13500 customers, sold more then 65,000,000 NIS. ",
+        "user": " SALESERVICE"
+
       }
     ]
   }
